@@ -126,12 +126,12 @@ nav{
     margin-top: 10px;
 }
 a{
-    color: white;
+    color: #800080;
     text-decoration: none;
 }
 li a:hover{
     padding-bottom: 10px;
-    border-bottom: 2px solid #800080;
+    border-bottom: 2px solid #4b0082;
 }
 li{
     list-style: none;
@@ -590,7 +590,7 @@ input:focus , textarea:focus{
     }
     .active{
         opacity: 1;
-        background-color: white;
+        background-color: #800080;
     }
     .contact{
         margin-left: 20px;
