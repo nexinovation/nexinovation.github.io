@@ -5,7 +5,7 @@ body{
     /* background-color: #906060;
     color: #FFEAEA; */
     background-color: #C0C0C0;
-    color: #800080;
+    color: #333333;
     font-family: 'Poppins', sans-serif;
     overflow-x: hidden;
 }
@@ -33,7 +33,7 @@ body{
     position: absolute;
     height: 6px;
     width: 50%;
-    background: #ac6d6d;
+    background: #800080;
     opacity: 1;
     -webkit-transform: rotate(0deg);
     -moz-transform: rotate(0deg);
@@ -113,7 +113,7 @@ body{
 
 header{
     float: left;
-    background-color: #800080;
+    background-color: #333333;
     height: 140vh;
     width: 25%;
     text-align: center;
@@ -209,7 +209,7 @@ p{
 }
 button{
     padding: 15px;
-    background-color: #663333;
+    background-color: #800080;
     border-radius: 5px;
     color: white;
     border: none;
@@ -373,7 +373,7 @@ input:focus , textarea:focus{
         overflow-y: scroll;
     }
     .menu-nav{
-        background-color: #633939;
+        background-color: #333333;
         height: 50px;
         padding: 20px;
         position: fixed;
@@ -488,7 +488,7 @@ input:focus , textarea:focus{
         margin-left: 18.5rem;
     }
     .menu-nav{
-        background-color: #633939;
+        background-color: #333333;
         height: 50px;
         padding: 20px;
         position: fixed;
