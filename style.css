@@ -131,7 +131,7 @@ a{
 }
 li a:hover{
     padding-bottom: 10px;
-    border-bottom: 2px solid #FFEAEA;
+    border-bottom: 2px solid #800080;
 }
 li{
     list-style: none;
@@ -162,7 +162,7 @@ h2{
 }
 .line{
     width: 60px;
-    background-color: #633939;
+    background-color: #800080;
     height: 5px;
     margin-left: 120px;
     margin-top: -20px;
@@ -272,7 +272,7 @@ h3{
 .project{
     margin-left: 300px;
     margin-top: 100px;
-    background-color: #CFA8A8;
+    background-color: #c0c0c0;
     padding: 10px;
    margin-right: -10px;
    height: 100vh;
@@ -316,7 +316,7 @@ h3{
 .circle{
     width: 15px;
     height: 15px;
-    background-color: #e6e6e6;
+    background-color: #333333;
     border-radius: 50%;
     margin-left: 27px;
     opacity: 0.6;
@@ -331,7 +331,7 @@ h3{
 }
 .box{
     margin: 0 auto;
-    background-color: #FCE2E2;
+    background-color: #c0c0c0;
     width: 33%;
     margin-top: 40px;
     padding: 50px;
